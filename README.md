@@ -4,39 +4,54 @@
 
 ---
 
-<!-- About Me Section -->
 ## 🚀 About Me
 
-🎓 **Passionate CSE Student**  
+🎓 **Passionate CSE Student **  
 💡 Passionate about building scalable web applications and exploring decentralized technologies.  
 🌱 Currently enhancing my skills in Full Stack Development and Blockchain technologies.
 ---
-<!-- Skills Section with Icons -->
 ## 🛠️ Skills & Technologies
-
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
+</p>
+
 ### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30"/>
+</p>
+
 ### 🛠️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="30"/>
+</p>
+
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30"/>
+</p>
+
 ### 🔗 Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" height="30"/>
+</p>
 ---
-
-<!-- Contact Section -->
 ## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sayedabdullahal11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vabdullah-al-sayed-036a05333)
+
+<p>
+  <a href="mailto:sayedabdullahal11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-al-sayed-036a05333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+</p>
 
 ---
-
