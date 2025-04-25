@@ -10,6 +10,18 @@
 💡 Passionate about building scalable web applications and exploring decentralized technologies.  
 🌱 Currently enhancing my skills in Full Stack Development and Blockchain technologies.
 ---
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:sayedabdullahal11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-al-sayed-036a05333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+</p>
+
+---
 ## 🛠️ Skills & Technologies
 ### 💻 Programming Languages
 <p>
@@ -43,15 +55,4 @@
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" height="30"/>
 </p>
 ---
-## 📫 Contact Me
 
-<p>
-  <a href="mailto:sayedabdullahal11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdullah-al-sayed-036a05333">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-</p>
-
----
