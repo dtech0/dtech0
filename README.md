@@ -10,9 +10,7 @@
 🎓 **Passionate CSE Student**  
 💡 Passionate about building scalable web applications and exploring decentralized technologies.  
 🌱 Currently enhancing my skills in Full Stack Development and Blockchain technologies.
-
 ---
-
 <!-- Skills Section with Icons -->
 ## 🛠️ Skills & Technologies
 
@@ -37,12 +35,10 @@
 ### 🔗 Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-
 ---
 
 <!-- Contact Section -->
 ## 📫 Contact Me
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sayedabdullahal11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vabdullah-al-sayed-036a05333)
 
