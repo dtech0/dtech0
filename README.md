@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm [Abdullah Al Sayed]!
 
-<!--
-**dtech0/dtech0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ | 💻 Full Stack Web Developer | 🔗 Blockchain Enthusiast
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable web applications and exploring decentralized technologies. Currently enhancing my skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React.js, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Blockchain:** Solidity, Ethereum, Smart Contracts
+- **Languages:** C, C++, Python, JavaScript
+
+🔧 Open to collaborations, internships, and contributing to open-source projects.
+
+📫 Reach me at: [sayedabdullahal11@gmail.com]
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-al-sayed-036a05333/) 
+
