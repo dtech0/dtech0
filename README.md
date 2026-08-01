@@ -1,1 +1,1 @@
-<img src="https://komarev.com/ghpvc/?username=dtech0&color=green&style=for-the-badge" alt="Profile Views" />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdtech0&count_bg=%237928CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
