@@ -1,1 +1,1 @@
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=green&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=dtech0&color=green&style=for-the-badge" alt="Profile Views" />
