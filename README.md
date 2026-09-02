@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5vdKJcD.jpeg" alt="Abdullah Al Sayed" width="250" style="border-radius: 10px;">
+  <img src="https://i.imgur.com/5vdKJcD.jpeg" alt="Abdullah Al Sayed" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Abdullah Al Sayed 👋</h1>
@@ -36,6 +36,14 @@ I am a 4th-year student at Chittagong University of Engineering & Technology (CU
 <p align="left">
   <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" alt="Render">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel">
+</p>
+
+**Tools & Technologies**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,docker" alt="Tools">
+  <img src="https://cdn.simpleicons.org/excalidraw/6965DB" width="48" height="48" alt="Excalidraw">
+  <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" height="48" alt="Draw.io">
+  <img src="https://img.shields.io/badge/Antigravity-333333?style=for-the-badge" alt="Antigravity">
 </p>
 
 ### 🌐 Connect with me
