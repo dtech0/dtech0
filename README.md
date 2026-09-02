@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5vdKJcD.jpeg" alt="Abdullah Al Sayed" width="100%">
+  <img src="https://imgur.com/a/mXbFo8d" alt="Abdullah Al Sayed" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Abdullah Al Sayed 👋</h1>
