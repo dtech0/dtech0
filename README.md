@@ -43,7 +43,7 @@ I am a 4th-year student at Chittagong University of Engineering & Technology (CU
   <img src="https://skillicons.dev/icons?i=git,github,notion,vscode,docker" alt="Tools">
   <img src="https://cdn.simpleicons.org/excalidraw/6965DB" width="48" height="48" alt="Excalidraw">
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" width="48" height="48" alt="Draw.io">
-  <img src="[https://img.shields.io/badge/Antigravity-333333?style=for-the-badge](https://medium.com/@sonalchinioti/google-antigravity-ide-review-the-moment-agent-first-development-started-feeling-real-ff5697c80216)"  width="48" height="48" alt="Antigravity">
+  <img src="https://promptdc.com/images/antigravity.webp"  width="48" height="48" alt="Antigravity">
 </p>
 
 ### 🌐 Connect with me
